@@ -9,3 +9,9 @@ Click the "Generate" button to create a new anime face!
 1. Clone repository
 2. Install requirements: `pip install -r requirements.txt`  
 3. Run app: `python app.py`
+
+## Demo Link
+[![Demo](https://img.shields.io/badge/Demo-Link-blue)](https://huggingface.co/spaces/Mahad871/Anime-Face-Generation)
+
+## ScreenShot
+![A ScreenShot of Image Generator Web APP](image.png)
