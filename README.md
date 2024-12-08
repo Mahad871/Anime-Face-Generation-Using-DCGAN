@@ -11,7 +11,9 @@ Click the "Generate" button to create a new anime face!
 3. Run app: `python app.py`
 
 ## Demo Link
-[![Demo](https://img.shields.io/badge/Demo-Link-blue)](https://huggingface.co/spaces/Mahad871/Anime-Face-Generation){:target="_blank"}
+<a href="https://huggingface.co/spaces/Mahad871/Anime-Face-Generation" target="_blank">
+    <img src="https://img.shields.io/badge/-Try%20Now-pink" alt="Demo">
+</a>
 
 ## ScreenShot
 ![A ScreenShot of Image Generator Web APP](image.png)
